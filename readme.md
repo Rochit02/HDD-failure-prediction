@@ -93,4 +93,4 @@ Below is the failure count per HDD model from the combined dataset:
 | Hitachi HDS5C4040ALE630 | 1 |
 | WDC WD5000BPKT | 1 |
 
-Total sum of all the failures from 2020 Q1 to 2025 Q2: 31000
+Total sum of all the failures from 2020 Q1 to 2025 Q2: 25700
