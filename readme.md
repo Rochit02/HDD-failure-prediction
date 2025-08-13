@@ -92,3 +92,5 @@ Below is the failure count per HDD model from the combined dataset:
 | Seagate FireCuda 120 SSD ZA500GM10001 | 1 |
 | Hitachi HDS5C4040ALE630 | 1 |
 | WDC WD5000BPKT | 1 |
+
+Total sum of all the failures from 2020 Q1 to 2025 Q2: 31000
